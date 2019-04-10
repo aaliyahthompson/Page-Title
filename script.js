@@ -1,0 +1,2 @@
+$("img").hide();
+var number = 
